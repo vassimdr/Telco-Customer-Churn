@@ -1,7 +1,5 @@
 # Telco Müşteri Kaybı Tahmini
 
-![Telekom](telekom.jpg)
-
 Bu proje, bir telekom şirketi müşterilerinin hizmetten ayrılıp ayrılmayacaklarını tahmin etmek için makine öğrenmesi modelleri geliştirmeyi amaçlar. Veriler, Kaliforniya'daki 7043 müşteriye ait müşteri kaybı bilgilerini içerir.
 
 ## Görev 1: Keşifçi Veri Analizi
